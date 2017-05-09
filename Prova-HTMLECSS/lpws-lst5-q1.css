@@ -1,0 +1,24 @@
+#P{
+	background-color: lightpink;
+}
+#P2{
+	background-color: lightgreen;
+}
+#P3{
+	background-color: lightblue;
+}
+#P4{
+	background-color: lightyellow;
+}
+#P5{
+	background-color: lightgray;
+}
+.modelo{
+	border: 1px dotted gray;
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 1024px;
+	margin: auto;
+}

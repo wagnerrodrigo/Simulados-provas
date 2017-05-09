@@ -1,0 +1,38 @@
+#P{
+	background-color: lightpink;
+	height: 110px;
+	border: 1px dotted gray;
+}
+#P2{
+	background-color: lightgreen;
+	height: 110px;
+	border: 1px dotted gray;
+}
+#P3{
+	background-color: lightblue;
+	height: 110px;
+	border: 1px dotted gray;
+}
+#P4{
+	background-color: lightyellow;
+	height: 110px;
+	border: 1px dotted gray;
+}
+#P5{
+	background-color: lightgray;
+	height: 110px;
+	border: 1px dotted gray;
+}
+.modelo{
+	border: 1px dotted gray;
+	margin: 0;
+	padding: 0;
+}
+body{
+	width: 1024px;
+	margin: auto ;
+	padding: 0;
+}
+div p{
+	margin: 0;
+}
